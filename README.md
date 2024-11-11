@@ -69,10 +69,3 @@ If you are conducting this analysis in the future, 01-part_i.R contains informat
 # Contact information
 
 Unfortunately, to maintain anonymity, no contact information is available. But a good resource if you require any assistance with this data set or R, in general, is Dr. Burak Sonmez from UCL's SRI. This project will not be maintained after the submission of this assignment. I am the sole contributor.
-
-If you are conducting this analysis in the future, 01-part_i.R contains information that would allow the groundhog package to load in the same versions of packages I used for analysis (dated 2024-10-31). Simply delete the # and run.
-
-# Contact information
-
-Unfortunately, to maintain anonymity, no contact information is available. But a good resource if you require any assistance with this data set or R, in general, is Dr. Burak Sonmez from UCL's SRI. This project will not be maintained after the submission of this assignment. I am the sole contributor. 
-
