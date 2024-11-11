@@ -1,19 +1,12 @@
 # SOCS0100 Assignment - README file
-<<<<<<< HEAD
 
-=======
->>>>>>> b91f32829572737a2b57bacb9dc1333f9d829943
 This is a repository containing all files related to my first assignment for SOCS0100. This README file will outline everything necessary to start if you want to replicate any of my findings.
 
 # Project description
 
 This project analyses global access to electricity and clean fuels for cooking using data from Our World in Data (OWID). The analysis highlights disparities in access across different regions (particularly focusing on subcategories involving Asia). The project included data wrangling, cleaning, and visualisation to reveal insights into energy access and its importance.
 
-<<<<<<< HEAD
 # Getting started
-=======
-# Getting started 
->>>>>>> b91f32829572737a2b57bacb9dc1333f9d829943
 
 These instructions will help you set up the project on your machine.
 
@@ -37,11 +30,7 @@ fig-03.png - Third figure created from my third visualisation
 
 fig-04-chatgpt.png - Fourth figure created by ChatGPT suggested improvements to my function
 
-<<<<<<< HEAD
 owid_dataset.csv - Data set used to conduct analysis, previously available at https://github.com/owid/owid-datasets/blob/master/datasets/Number%20of%20people%20with%20and%20without%20energy%20access%20(OWID%20based%20on%20World%20Bank%2C%202021)/Number%20of%20people%20with%20and%20without%20energy%20access%20(OWID%20based%20on%20World%20Bank%2C%202021).csv
-=======
-owid_dataset.csv - Data set used to conduct analysis 
->>>>>>> b91f32829572737a2b57bacb9dc1333f9d829943
 
 quarto-report-files - Folder containing resources associated with my quarto HTML output
 
@@ -51,10 +40,6 @@ quarto-report.qmd - The code needed to produce my report in HTML
 
 README.md - The file you are reading right now that outlines administrative information related to this report
 
-<<<<<<< HEAD
-=======
-
->>>>>>> b91f32829572737a2b57bacb9dc1333f9d829943
 # Versioning
 
 This data set was analysed using the following packages:
@@ -79,13 +64,11 @@ ggrepel for text-repelling
 
 knitr for reproducibility
 
-<<<<<<< HEAD
 If you are conducting this analysis in the future, 01-part_i.R contains information that would allow the groundhog package to load in the same versions of packages I used for analysis (dated 2024-10-31). Simply delete the \# and run.
 
 # Contact information
 
 Unfortunately, to maintain anonymity, no contact information is available. But a good resource if you require any assistance with this data set or R, in general, is Dr. Burak Sonmez from UCL's SRI. This project will not be maintained after the submission of this assignment. I am the sole contributor.
-=======
 
 If you are conducting this analysis in the future, 01-part_i.R contains information that would allow the groundhog package to load in the same versions of packages I used for analysis (dated 2024-10-31). Simply delete the # and run.
 
@@ -93,7 +76,3 @@ If you are conducting this analysis in the future, 01-part_i.R contains informat
 
 Unfortunately, to maintain anonymity, no contact information is available. But a good resource if you require any assistance with this data set or R, in general, is Dr. Burak Sonmez from UCL's SRI. This project will not be maintained after the submission of this assignment. I am the sole contributor. 
 
-
-
-
->>>>>>> b91f32829572737a2b57bacb9dc1333f9d829943
